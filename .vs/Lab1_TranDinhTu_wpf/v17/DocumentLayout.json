@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8658574F-9679-4ABE-B0D3-FB3924CC3ACF}|DataAccessLayer\\DataAccessLayer.csproj|d:\\desktop\\summer 2024\\prn212\\wpf\\lab1_trandinhtu_wpf\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8658574F-9679-4ABE-B0D3-FB3924CC3ACF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C09EBC1-1A82-4E8B-A5B0-E54E857CEB0F}|BusinessObjects\\BusinessObjects.csproj|D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C09EBC1-1A82-4E8B-A5B0-E54E857CEB0F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8658574F-9679-4ABE-B0D3-FB3924CC3ACF}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8658574F-9679-4ABE-B0D3-FB3924CC3ACF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:07:10.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowHsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:57:19.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAC3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:50:47.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\WPFApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml",
+              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\WPFApp\\LoginWindow.xaml",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T03:16:14.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T02:20:27.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\Lab1_TranDinhTu_wpf\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAcwIEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:20:27.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
